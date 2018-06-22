@@ -3,7 +3,7 @@
 
 **Este es un ejemplo para realizar pagos a través de Mercadopago con PHP-Laravel**
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -29,6 +29,8 @@
     | **Perú** | 4009 1753 3280 6176 | no disponible | no disponible |
     | **Uruguay** | 4014 6823 8753 2428 | 5808 8877 7464 1586 | no disponible |
     | **Venezuela** | 4966 3823 3110 9310 | 5177 0761 6430 0010 | no disponible |
+
+- Email para test: 'test_user_80507629@testuser.com'
 
 - En el campo 'cardholderName'puedes probar los diferentes valores para simular resultdos 
     * APRO - Pago aprobado
